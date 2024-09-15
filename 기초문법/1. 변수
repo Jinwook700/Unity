@@ -1,0 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class NewBehaviourScript : MonoBehaviour
+{
+    int gold = 500;
+    long money = 10000000000000;
+    float half = 0.5f; //마지막에 f를 붙임
+    double d = 1.1111d; //마지막에 d를 붙임
+    string word = "Hello world!";
+    bool Check = false;
+}
